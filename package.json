@@ -1,7 +1,7 @@
 {
   "name": "el-challenge",
   "version": "1.0.0",
-  "description": "This project contains an API which disseminates food truck information",
+  "description": "This project contains an API which discovers the food truck nearest your provided location",
   "main": "index.js",
   "scripts": {
     "clean": "rimraf coverage build tmp",

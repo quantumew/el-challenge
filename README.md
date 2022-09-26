@@ -1,14 +1,14 @@
 # Food Trucks
 
-This project will create a serverless API that helps you decide where you will eat!
+This project creates an API that finds the nearest food truck to your location.
 
 ## Why?
 
-This project was built in order to display my technical acumen, in preparation for an interview.
+This was built in order to display my technical acumen, in preparation for an interview.
 
 ## What?
 
-A serverless REST API on AWS. It utilizes TypeScript for application code, and Terraform for IaC.
+A REST API on AWS. It utilizes TypeScript for application code, and Terraform for IaC. Serverless architecture.
 
 ## How?
 
