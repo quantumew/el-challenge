@@ -75,6 +75,10 @@ It should output something like this
 }
 ```
 
+### Cleanup
+
+- Run destroy: `npm run tf:destroy`
+
 ## What was left undone?
 
 There would normally be so many things left to do... Here is a quick list for the sake of discussion.
